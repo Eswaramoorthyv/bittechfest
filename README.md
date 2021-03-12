@@ -1,1 +1,2 @@
 # bittechfest
+## Welcome to BIT
